@@ -1,0 +1,75 @@
+.nav_bar{
+	background-color: #90caf9;
+	height: 50px;
+}
+
+.titel{
+	font-family: bold italic;
+	margin-top: -20px;
+}
+
+a{
+	color: black;
+}
+
+.logo{
+	width: 150px; 
+	height: 65px; 
+	margin-left: -12px;
+}
+
+.list_item{
+	font-size: 16px;
+    color: #26a69a;
+    display: block;
+    line-height: 22px;
+    padding: 14px 16px;
+}
+
+.filter{
+	background-color: wheat;
+	text-align: center;
+	position: fixed;
+    top: 95px;
+}
+
+.item{
+	height: 240px;
+	max-width: 240px;
+	background-color: wheat;
+	margin: 20px;
+}
+
+.prod{
+	background-color: wheat;
+	margin: 20px;
+}
+
+.naam{
+	font-size: 17px;
+	text-align: center;
+}
+
+.prijs{
+	font-size: 15px;
+	text-align: center;
+}
+
+.foto{
+	margin-left: 35px;
+}
+
+.product{
+	color: black;
+}
+
+.margin{
+	margin-top: 12px;
+}
+
+.test{
+	margin: 5px;
+}
+.dropdown-content li>span {
+	color: red;
+}

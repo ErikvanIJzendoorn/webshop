@@ -1,0 +1,39 @@
+.filter{
+	background-color: wheat;
+	text-align: center;
+	position: fixed;
+    top: 95px;
+}
+
+.item{
+	height: 240px;
+	max-width: 240px;
+	background-color: wheat;
+	margin: 20px;
+}
+
+.prod{
+	background-color: wheat;
+	margin: 20px;
+}
+
+.naam{
+	font-size: 17px;
+	text-align: center;
+}
+
+.prijs{
+	font-size: 15px;
+}
+
+.foto{
+	margin-left: 35px;
+}
+
+.product{
+	color: black;
+}
+
+.margin{
+	margin-top: 25px;
+}
