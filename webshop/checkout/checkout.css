@@ -1,0 +1,60 @@
+.container{
+	background-color: rgba(204, 204, 204, 1);
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    black;
+     opacity: 1 !important;
+}
+
+nav{
+	background-color: rgba(46, 168, 229, 0.96);
+	height: 90px;
+}
+
+.nav_item{
+	margin: 12px 10px;
+}
+
+label{
+	color: black !important;
+}
+
+input{
+	border-color: rgba(204, 204, 204, 1);
+}
+
+th{
+	padding-left: 30px;
+}
+
+td{
+	padding-left: 50px;
+}
+
+.but_div{
+	background-color: rgba(204, 204, 204, 1);
+	padding: 30px;
+}
+
+.but{
+	background-color: rgba(46, 168, 229, 0.96);
+}
+
+.wrap{
+	background-color: rgba(204, 204, 204, 1);
+	height: 310px;
+}
+
+.form{
+	margin-top: 25px;
+}
+
+.titel{
+	margin-left: 10px;
+}
+
+.margin{
+	margin-top: 50px;
+}
+
